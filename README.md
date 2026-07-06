@@ -48,6 +48,6 @@ Extract meaningful insights to support strategic decision-making within the cons
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d9e455-2e5d-4b72-a2fb-acd14b192056" />
 
 # Links
-<img width="552" height="286" alt="brandg-linkedinlogo-logo-display-dsk-v03-2x" src="https://github.com/user-attachments/assets/028d5a41-27aa-4ad1-bace-71cc3fbc9025" />
+<img width="150" height="39" alt="brandg-linkedinlogo-hero-logo-dsk-v01-2x" src="https://github.com/user-attachments/assets/f6213542-16f8-4588-810c-03db705b6aa3" />
 
 
