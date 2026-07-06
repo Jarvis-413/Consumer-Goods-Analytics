@@ -49,5 +49,5 @@ Extract meaningful insights to support strategic decision-making within the cons
 
 # Links
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aayush-kumar-patra/"/>
 </a>
