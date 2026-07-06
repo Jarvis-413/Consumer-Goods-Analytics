@@ -48,6 +48,5 @@ Extract meaningful insights to support strategic decision-making within the cons
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d9e455-2e5d-4b72-a2fb-acd14b192056" />
 
 # Links
-<img width="145" height="28" alt="image" src="https://codebasics.io/portfolio/AAYUSH-KUMAR-PATRA"/>
-<img width="91" height="28" alt="image" src="https://www.linkedin.com/in/aayush-kumar-patra/"/>
+https://camo.githubusercontent.com/ee59c11a0ffcc301e7d0b1201866923b89c43bfd5701d3a45eef9372794dc301/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f706f7274666f6c696f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465
 
