@@ -26,6 +26,7 @@ Extract meaningful insights to support strategic decision-making within the cons
 
 # Repository Contents
 1.SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset.
+
 [SQL QUERIES.pdf](https://github.com/user-attachments/files/29712340/SQL.QUERIES.pdf)
 
 2.PPT:[SQL.PROJECT.pptx](https://github.com/user-attachments/files/29711934/SQL.PROJECT.pptx)
@@ -47,4 +48,5 @@ Extract meaningful insights to support strategic decision-making within the cons
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d9e455-2e5d-4b72-a2fb-acd14b192056" />
 
 # Links
-codebasics.io/portfolio/AAYUSH-KUMAR-PATRA https://www.linkedin.com/in/aayush-kumar-patra/
+https://www.linkedin.com/in/aayush-kumar-patra/#:~:text=www.linkedin.com/in/aayush%2Dkumar%2Dpatra
+
